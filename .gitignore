@@ -1,0 +1,12 @@
+# Terraform local files
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Local IDE files
+*.log
+*.vscode/
+*.idea/
+
+# Optional: sensitive variables file
+*.tfvars
